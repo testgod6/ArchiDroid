@@ -1,0 +1,30 @@
+id,label,text,view
+0,SplashScreen,null,android.widget.LinearLayout
+1,MainActivity,வெளியேறு சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+2,Chapter1,BACK ஸம்பிரதாய குரு ஸ்தோத்திரம்,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+3,Chapter2,BACK யாக மந்திர பிரவேசம்,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+4,Chapter3,BACK தத்வாசமனம்,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+5,Chapter4,BACK ஸ்ரீ குரு பாதுகா மந்த்ரம்,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+6,Chapter5,BACK கண்டா பூஜை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+7,Chapter6,BACK ஸங்கல்பம்,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+8,Chapter7,BACK ஆஸன பூஜை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+9,Chapter8,BACK தேஹரக்ஷை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+10,Chapter9,BACK அக்னி ப்ராகார திக்பந்தம்-தியானம்,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+11,Chapter10,BACK ஸமஷ்டிமந்த்ர அஞ்சலி,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+12,Chapter11,BACK அனுக்ஞை-லகு பிராணப்ரதிஷ்டை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+13,Chapter12,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+14,Chapter13,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+15,Chapter14,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+16,Chapter15,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+17,Chapter16,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+18,Chapter17,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+19,Chapter18,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+20,Chapter19,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+21,Chapter20,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+22,Chapter21,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+23,Chapter22,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+24,Chapter23,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+25,Chapter24,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+26,Chapter25,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+27,Chapter26,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
+28,Chapter27,BACK சிதானந்த அலை,android.widget.LinearLayout android.widget.Button android.widget.ListView android.widget.Button
