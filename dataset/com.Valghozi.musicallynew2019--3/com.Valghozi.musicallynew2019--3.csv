@@ -1,0 +1,18 @@
+id,label,text,view
+0,SplashActivity,Tik Tok Musical.ly New,android.widget.RelativeLayout android.widget.TextView android.widget.ImageView
+1,StartActivity,Share App More Apps Tik Tok Musically Pro,android.widget.RelativeLayout com.google.android.gms.ads.AdView android.widget.TextView android.widget.TextView android.widget.TextView android.widget.ImageView
+2,MainActivity,More Apps Tik tok Followers Tik tok Musically 2019 Musical.ly Plus,android.widget.RelativeLayout com.google.android.gms.ads.AdView android.widget.TextView android.widget.TextView android.widget.TextView android.widget.TextView android.widget.ImageView
+3,MAIN,null,null
+4,IntrosgoActivity,DONE SKIP,android.widget.RelativeLayout android.widget.LinearLayout android.widget.FrameLayout android.widget.Button android.widget.ImageButton android.widget.ImageButton android.widget.Button android.widget.FrameLayout android.widget.TextView com.github.paolorotolo.appintro.AppIntroViewPager
+5,tiks1Activity,Next Step STEP : 1,android.widget.RelativeLayout android.widget.ScrollView android.widget.LinearLayout android.widget.TextView android.widget.ImageView com.google.android.gms.ads.AdView android.widget.TextView
+6,folows1Activity,Next Step STEP : 1,android.widget.RelativeLayout android.widget.ScrollView android.widget.LinearLayout android.widget.TextView android.widget.ImageView com.google.android.gms.ads.AdView android.widget.TextView
+7,tiks2Activity,Next Step STEP : 2,android.widget.RelativeLayout android.widget.ScrollView android.widget.LinearLayout android.widget.TextView android.widget.ImageView com.google.android.gms.ads.AdView android.widget.TextView
+8,tiks3Activity,Next Step STEP : 3,android.widget.RelativeLayout android.widget.ScrollView android.widget.LinearLayout android.widget.TextView android.widget.ImageView com.google.android.gms.ads.AdView android.widget.TextView
+9,tiks4Activity,Next Step STEP : 4,android.widget.RelativeLayout android.widget.ScrollView android.widget.LinearLayout android.widget.TextView android.widget.ImageView com.google.android.gms.ads.AdView android.widget.TextView
+10,tiks5Activity,Next Step STEP : 5,android.widget.RelativeLayout android.widget.ScrollView android.widget.LinearLayout android.widget.TextView android.widget.ImageView com.google.android.gms.ads.AdView android.widget.TextView
+11,tiks6Activity,Home STEP : 6,android.widget.RelativeLayout android.widget.ScrollView android.widget.LinearLayout android.widget.TextView android.widget.ImageView com.google.android.gms.ads.AdView android.widget.TextView
+12,folows2Activity,Next Step STEP : 2,android.widget.RelativeLayout android.widget.ScrollView android.widget.LinearLayout android.widget.TextView android.widget.ImageView com.google.android.gms.ads.AdView android.widget.TextView
+13,folows3Activity,Next Step STEP : 3,android.widget.RelativeLayout android.widget.ScrollView android.widget.LinearLayout android.widget.TextView android.widget.ImageView com.google.android.gms.ads.AdView android.widget.TextView
+14,folows4Activity,Next Step STEP : 4,android.widget.RelativeLayout android.widget.ScrollView android.widget.LinearLayout android.widget.TextView android.widget.ImageView com.google.android.gms.ads.AdView android.widget.TextView
+15,folows5Activity,Next Step STEP : 5,android.widget.RelativeLayout android.widget.ScrollView android.widget.LinearLayout android.widget.TextView android.widget.ImageView com.google.android.gms.ads.AdView android.widget.TextView
+16,folows6Activity,Home STEP : 6,android.widget.RelativeLayout android.widget.ScrollView android.widget.LinearLayout android.widget.TextView android.widget.ImageView com.google.android.gms.ads.AdView android.widget.TextView
