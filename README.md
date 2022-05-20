@@ -1,6 +1,6 @@
 # ArchiDroid
 ArchiDroid website
-# ![logo](https://github.com/testgod6/ArchiDroid/blob/main/ArchiDroid-logo.png) 
+# ![logo](https://github.com/testgod6/ArchiDroid/blob/main/logo.png) 
 
 # ArchiDroid
 ArchiDroid demo video
